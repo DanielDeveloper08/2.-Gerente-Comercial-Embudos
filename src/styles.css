@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+html,body{
+    font-family: sans-serif;
+    background: url("https://img.zohocdn.com/crm/CRMClient/images/Pattern-svg_f758513_.svg");
+    background-repeat: repeat;
+    background-color: #EDF0F4;
+    background-size: auto;
+}

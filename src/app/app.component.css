@@ -1,0 +1,33 @@
+.generalStyle{
+    width: 90%;
+}
+
+.bg-primary-custom{
+    background-color: #34495e;
+}
+
+.texto{
+    font-size: 14px;
+}
+
+.bg-loading{
+    background-color: rgb(242, 242, 242);
+}
+
+.transicion{
+    transition: 1s all ;
+}
+
+.animate__animated {
+    --animate-duration: 1s;
+  }
+
+  .custom-loading{
+    --animate-duration: 4s!important;
+  }
+
+  .text-custom{
+    font-size: 18px;
+  }
+
+
